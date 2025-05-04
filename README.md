@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kavya Aliveli (@Kaliveli)
+# 👋 Hi there! I'm Kavya Aliveli 
 
 
 ## 👩‍💻 About Me
