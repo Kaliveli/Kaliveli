@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Kavya Aliveli 
 
+**Welcome to my professional space. I appreciate your time and interest**.
 
-## 👩‍💻 About Me
+## 👩‍💻 This Is Me
 
 - 👀 **Interests:** Coding, Software Development, Tech Innovations  
 - 🌱 **Currently Learning:** Latest technologies and development tools  
